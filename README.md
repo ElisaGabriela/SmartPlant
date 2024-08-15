@@ -22,7 +22,9 @@
 <p>
   To indicate whether the temperature, humidity, and light levels are adequate, it was necessary to set up a system of 9 LEDs, consisting of 3 green, 3 yellow, and 3 red LEDs.
 </p>
+
 ## METHODOLOGY
+
 <p>
   The first step of the project was to prototype using the Tinkercad platform. Tinkercad is a free, online platform for creating and simulating electronic projects, 3D design, and programming. Ideal for students and educators, Tinkercad features an intuitive and user-friendly interface where users can design electronic circuits, program microcontrollers such as Arduino, and model 3D objects for printing. Thanks to its interactive tools, Tinkercad enhances learning and creation, quickly and practically turning ideas into reality, and thanks to the virtual environment, there is no need for hardware in the initial experience.
 
@@ -179,9 +181,11 @@ int ldrValue = 0; // Variável para armazenar a leitura do LDR
     digitalWrite(LED_TEMP_VERDE_PIN, HIGH);  // Acende o LED para faixa de temperatura normal
   }
 ```
-<p>
-  The image below shows the final version of the project in Tinkercad. The project can be simulated at this [link](https://www.tinkercad.com/things/ilOe2AMdBC2-planta-inteligente?sharecode=Qh9qWKVs8dCI-wgPsy0qEZpM_bc3O0svbLCfrfQMFh0) . On the platform, it is possible to simulate all responses based on sensor readings.
-</p>
+
+  The image below shows the final version of the project in Tinkercad. The project can be simulated at this
+  [link](https://www.tinkercad.com/things/ilOe2AMdBC2-planta-inteligente?sharecode=Qh9qWKVs8dCI-wgPsy0qEZpM_bc3O0svbLCfrfQMFh0)
+  . On the platform, it is possible to simulate all responses based on sensor readings.
+
 
 <img src="https://i.imgur.com/MjGnKMg.png" alt="Final project">
 
