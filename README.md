@@ -6,13 +6,11 @@
 <p>
   For the development of the prototype, the Arduino Uno was chosen. Arduino Uno is a type of microcontroller board widely used in electronics and for prototyping projects. The ATmega328P is the core of the Arduino Uno. The device features 14 digital input/output pins, 6 analog inputs, a 16 MHz crystal oscillator, a USB connection, a power jack, and a reset button. A program for the Arduino Uno is expected to be easy to use and program. It is practical for both beginners and future professionals, who can use it to prototype interactive systems, such as the creation of home automation, robotics, and monitoring systems.
 </p>
-![Placa arduino uno](https://tse4.mm.bing.net/th?id=OIP.Cy4SMThjodA5uqrw6XUVugHaGh&pid=Api&P=0&h=180)
-*Figure 1: Arduino Uno board used in the project.*
+<img src="https://tse4.mm.bing.net/th?id=OIP.Cy4SMThjodA5uqrw6XUVugHaGh&pid=Api&P=0&h=180" alt="Arduino uno">
 <p>
   Sensors were also necessary for monitoring soil moisture, ambient temperature, and local light levels. The soil moisture sensor is a specific electronic device designed to measure the amount of moisture in the soil, allowing it to detect when the soil is dry or wet. The soil moisture sensor typically consists of two metal probes inserted into the soil as electrodes and measures the resistance between these probes. The sensor can determine the moisture level if the resistance is low. High moisture levels lower the resistance between the probes, allowing the sensor to provide accurate readings. The sensor can be systematically used with automated irrigation systems, smart gardens, and plant-oriented projects, ensuring that the plant has access to the necessary water.
 </p>
-![Sensor de umidade do solo](https://http2.mlstatic.com/sensor-de-umidade-do-solo-higrmetro-ideal-arduino-pic-D_NQ_NP_438225-MLB25397788347_022017-F.jpg)
-*Figure 2: Soil moisture sensor used in the project.*
+<img src="https://http2.mlstatic.com/sensor-de-umidade-do-solo-higrmetro-ideal-arduino-pic-D_NQ_NP_438225-MLB25397788347_022017-F.jpg" alt="Soil moisture sensor used in the project">
 <p>
   An LDR sensor is an electronic component that changes its resistance depending on the amount of light that hits it. The LDR is commonly referred to as a photoresistor, as its highly resistive material in the dark quickly becomes conductive with a reasonably small amount of light. The LDR is an easy-to-use component that can be very effective in detecting varying levels of light. The LDR is one of the most widely used sensors in various projects, such as automatic light control, solar power plants, security control, monitoring, and many others. Therefore, electronic devices can react to changes in ambient light, such as lights turning on at night or the dimming of a display.
 </p>
